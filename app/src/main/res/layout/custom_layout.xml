@@ -10,7 +10,7 @@
         android:layout_height="wrap_content"
         android:text="LGA - NAS"
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:textColor="@android:color/darker_gray" />
+        android:textColor="@android:color/black" />
 
     <TextView
         android:id="@+id/departure"
@@ -18,7 +18,7 @@
         android:layout_height="wrap_content"
         android:text="Depart: 9:30 a.m."
         android:textAppearance="?android:textAppearanceMedium"
-        android:textColor="@android:color/darker_gray" />
+        android:textColor="@android:color/black" />
 
     <TextView
         android:id="@+id/terminal"
