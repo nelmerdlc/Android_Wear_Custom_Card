@@ -7,4 +7,4 @@ The result is a card displaying example information about a flight, but since th
 Enjoy :)
 
 ##Screenshot
-![2](https://cloud.githubusercontent.com/assets/5642644/17688486/a82ab660-634d-11e6-9070-1e2f36a0db7e.PNG)
+![21](https://cloud.githubusercontent.com/assets/5642644/18366401/88a279b4-75e4-11e6-9579-c839c035f396.PNG)
