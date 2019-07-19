@@ -6,5 +6,5 @@ The result is a card displaying example information about a flight, but since th
 
 Enjoy :)
 
-##Screenshot
+## Screenshot
 ![21](https://cloud.githubusercontent.com/assets/5642644/18366401/88a279b4-75e4-11e6-9579-c839c035f396.PNG)
